@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats:
 
 ![Harsh's GitHub stats](https://github-stats-extended.vercel.app/api?username=Harsh18022&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh18022&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh18022&layout=compact&theme=radical)
 
 ---
 
